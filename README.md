@@ -4,12 +4,12 @@
   
 <p align="center">
   <!-- GITHUB -->
-  <img  align="center" hregf="https://github.com/Borgerod" height=30  width=30 src="./assets/images/3.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img  align="center" hregf="https://discordapp.com/users/3934" height=30  width=30 src="./assets/images/4.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" hregf="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/" height=25  width=25 src="./assets/images/6.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" hregf="https://www.facebook.com/aleksander.borgerod" height=30  width=30 src="./assets/images/5.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img  align="center" hregf="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921" height=30  width=30 src="./assets/images/2.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img  align="center" hregf="mailto:borgerod@hotmail.com" height=30  width=30 src="./assets/images/1.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img  align="center" href="https://github.com/Borgerod" height=30  width=30 src="./assets/images/3.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img  align="center" href="https://discordapp.com/users/3934" height=30  width=30 src="./assets/images/4.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" href="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/" height=25  width=25 src="./assets/images/6.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" href="https://www.facebook.com/aleksander.borgerod" height=30  width=30 src="./assets/images/5.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img  align="center" href="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921" height=30  width=30 src="./assets/images/2.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img  align="center" href="mailto:borgerod@hotmail.com" height=30  width=30 src="./assets/images/1.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Hi, I'm Aleksander Borgerød.
