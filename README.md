@@ -80,3 +80,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector)](https://github.com/Borgerod/ProSpector)
+
+
+
+
+PROFILE COUNTER:
+https://profile-counter.glitch.me/borgerod/count.svg
