@@ -28,16 +28,16 @@ n### Hello, I am Aleksander Borgerød.
 
 
 
-<!-- <p align="center"> -->
+<p align="center">
 <img  height=250 max-width: max-content  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 </p>
 
-  <div align="center" style="column-count: 2; width:700px">
-    <img src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/> 
-    <div align="left" style="width:500px">
-      It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. 
-    </div>
+<div align="left" style="column-count: 2; width:700px">
+  <img src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/> 
+  <div align="left" style="width:500px">
+    It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. 
   </div>
+</div>
 <!-- </div> -->
 
 
