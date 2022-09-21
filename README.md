@@ -42,7 +42,6 @@ n### Hello, I am Aleksander Borgerød.
 
 
 
-
 <p>
   <div align = "center" style="column-count: 2;">
       <div>
@@ -55,6 +54,7 @@ n### Hello, I am Aleksander Borgerød.
     </div>
   </div>
 </p>
+
 
 
 
