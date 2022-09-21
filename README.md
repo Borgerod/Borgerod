@@ -61,10 +61,10 @@
 <details open>
   <summary>Want to ruin the surprise?</summary>
     <br>
-      <object data="assets/documents/Diploma.pdf" type="application/pdf" width="700px" height="700px">
-          <embed src="assets/documents/Diploma.pdf">
-          </embed>
-      </object>
+      <img src="assets/images/Diploma-1.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-2.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-3.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-4.svg" width="700px" height="700px">
 </details>
 
 ---
