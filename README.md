@@ -9,7 +9,7 @@
     In a nutshell I would describe myself as resilient, solution driven and not to mention stubborn. If i don't know how to solve something, I will find out, or I will bash my head into the problem until it's fixed. 
     <img height=200 width=300 src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" align="left" />     In regards to my expereince, I've found that I'm quite good at data extraction, where I've had tons of practice, as you might can tell from my repo.
     Most of my experence comes from Python, then Dart, Postgres. But in the near future I plan to expand my knowledge and start leaning another language, such as Jave, Rust or Goland. My upcomming goals are; Cloud integration, automatization and dive further down into data science. 
-    Don't hesitate to make contact if you have any questions or ideas for future projects, I'd love to hear them. Take care and have fun creeping through my profile! 
+    Don't hesitate to make contact if you have any questions or ideas for future projects, I'd love to hear them. <br>Take care and have fun creeping through my profile! 
   </div >
 </div >
 <br clear="left"/>
