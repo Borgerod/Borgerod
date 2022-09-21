@@ -56,10 +56,11 @@
 ---
 
 ## Miscs
-#### diploma:
+
+
 
 <details open>
-  <summary>Want to ruin the surprise?</summary>
+  <summary><b style="font-size:14px">Diploma</b></summary>
     <br>
       <img src="assets/images/Diploma-1.svg" width="700px" height="700px">
       <img src="assets/images/Diploma-2.svg" width="700px" height="700px">
@@ -67,7 +68,34 @@
       <img src="assets/images/Diploma-4.svg" width="700px" height="700px">
 </details>
 
----
+<!-- <br> -->
+<details open>
+  <summary><b style="font-size:14px">Literature</b></summary>
+  <table>
+  <style>
+  td, th {
+    border: none!important;
+  }
+  </style>
+    <tr>
+      <td>  - Clean Code, by Robert Cecil </td>
+    </tr>
+    <tr>    <td>  - Understanding Economicsd, by Jay R Corrigan .</td>
+    </tr>
+    <tr>
+      <td>  - CryptoGraphy, by Keith Martin.</td>
+    </tr>
+    <tr>    <td>  - Thinking, fast & slow, by Daniel Kahneman.</td>
+    </tr>
+    <tr>
+      <td>  - Algorithms and Data Structures, by Jeffer ySmith.</td>
+      <td>
+    </tr>
+  </table>
+</details>
+
+
+
 
 <!-- PROFILE COUNTER: -->
 <br>
