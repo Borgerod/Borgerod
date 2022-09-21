@@ -95,7 +95,7 @@ n### Hello, I am Aleksander Borgerød.
 <br></br>
 
 <!-- REPO'S: -->
-<p align="center">
+<p align="left">
   <p align="center">
   <a href="https://github.com/Borgerod/BarniBus">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=BarniBus&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
