@@ -1,12 +1,13 @@
-n### Hello, I am Aleksander Borgerød. 
-##### Welcome to my profile.
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
+
+
+
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -23,78 +24,36 @@ n### Hello, I am Aleksander Borgerød.
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-<br/>
 
+## Hello, I am Aleksander Borgerød.
 
+### About me 
+<!-- ACTIVITY GRAPH -->
+indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. <img align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>  is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment.
+simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" ndicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" <img src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" align="left" /> simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment.simple. As you know the "|-|" is used for 
 
+<!-- DIVIDER -->
+<!-- <br clear="left"/> -->
 
-<p align="center">
-<img  height=250 max-width: max-content  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-</p>
-
-<div  style="column-count: 2; width:700px">
-  <img src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/> 
-  <!-- <div align="left" style="width:500px"> -->
-  <pre>
-  It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. 
-  </pre>
-</div>
-<!-- </div> -->
-
-
-
-<!-- <p>
-  <div align = "center" style="column-count: 2;">
-      <div>
-        <div style="width:510px" > 
-        <img align = "center" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/> 
-        </div> 
-        <div  style="width:500px"  align = left>
-          It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. 
-        </div>
-    </div>
-  </div>
-</p> -->
-
-
-
-
-
-
-<!-- </div> -->
-
+---
 <!-- PROFILE STATS 1: -->
+### My Activity
 <p align="center">
-  <table>
-      <tr>
-        <div style="display: inline-block;">
-          <td valign="top">
-            <a href="https://github.com/Borgerod/Borgerod">
-              &nbsp;&nbsp;&nbsp;&nbsp; <img height=200 max-width: min-content align="center" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true"  />
-            </a>
-          </td>
-          <td valign="top">
-            <a href="https://github.com/Borgerod/Borgerod">
-              <img height=200 max-width: min-content  align="center" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" /> 
-            </a> 
-          </td>
-        </div>
-      </tr>
-      <a href="https://github.com/Borgerod/Borgerod">
-          &nbsp;&nbsp;<img height=220 max-width: min-content align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgerod&theme=github_dark&hide=html,&langs_count=3&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
-      </a> 
-      <a href="https://github.com/Borgerod/Borgerod">
-          <img height=220 max-width: min-content align="center" src="https://github-readme-stats.vercel.app/api?username=Borgerod&theme=github_dark&show_icons=true&line_height=27&count_private=true&hide_border=true"  />
-      </a>
-    </p> 
-  </table>
+  &nbsp;&nbsp;<img height=200 max-width: min-content align="center" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height=200 max-width: min-content  align="center" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" /> 
+</p> 
+<p align="center">
+      &nbsp;&nbsp;<img height=220 max-width: min-content align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgerod&theme=github_dark&hide=html,&langs_count=3&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height=220 max-width: min-content align="center" src="https://github-readme-stats.vercel.app/api?username=Borgerod&theme=github_dark&show_icons=true&line_height=27&count_private=true&hide_border=true"  />
 </p> 
 
 
-<!-- Divider -->
-<br></br>
 
+<!-- Divider -->
+<!-- <br></br> -->
+---
 <!-- REPO'S: -->
+### My top projects
 <p align="left">
   <p align="center">
   <a href="https://github.com/Borgerod/BarniBus">
@@ -114,42 +73,13 @@ n### Hello, I am Aleksander Borgerød.
   </p>
 </p>
 
+---
 <!-- PROFILE COUNTER: -->
 <br>
   <P align = "center">
     <a>
-      <img align="center" src="https://profile-counter.glitch.me/borgerod/count.svg"/>
+      Profile visits: &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/borgerod/count.svg"/>
     </a>
   </p>
 </br>
 <!-- </div> -->
-
-<!-- 
-<p align="center">
-  <div  align = "left" style="column-count: 2;">
-      <div style="display: inline-block;">
-        <td valign="top">
-        &nbsp;&nbsp;<img height=220 max-width: min-content align="center"  <img src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-        </td>
-        </div>
-        <td valign="top">
-        </td>
-      </br></br></br> It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. 
-    </div>
-</p>  -->
-
-
-
-<!-- <p align="center">
-<div  align="center" style="column-count: 1;">
-      <img  height=250 max-width: max-content  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-    </div>
-<p align="left">
-  <div  align = "center" style="column-count: 2;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div> 
-    <img  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    </div>
-  </div>
-  </p>
-</p> -->
