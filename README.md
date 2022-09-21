@@ -53,6 +53,7 @@
 ---
 ## Miscs
 #### diploma:
+
 <details open>
   <summary>Want to ruin the surprise?</summary>
     <br>
