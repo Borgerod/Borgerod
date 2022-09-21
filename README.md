@@ -29,7 +29,9 @@
   &nbsp;&nbsp;<img width=480 height=180 align="center" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true"  />&nbsp;&nbsp;&nbsp;&nbsp;
   <img  height=200 width=315 align="center" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" /> 
 </p> 
+
 ---
+
 <!-- REPO'S: -->
 ### My top projects
 <p align="left">
@@ -50,7 +52,9 @@
   </a>
   </p>
 </p>
+
 ---
+
 ## Miscs
 #### diploma:
 <details open>
@@ -62,8 +66,8 @@
       </object>
 </details>
 
-
 ---
+
 <!-- PROFILE COUNTER: -->
 <br>
   <P align = "center">
