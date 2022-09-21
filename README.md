@@ -32,7 +32,7 @@ n### Hello, I am Aleksander Borgerød.
 <img  height=250 max-width: max-content  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 </p>
 
-<div align="center" style="column-count: 2; width:700px">
+<div  style="column-count: 2; width:700px">
   <img src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/> 
   <!-- <div align="left" style="width:500px"> -->
   <div>
