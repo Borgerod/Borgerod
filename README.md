@@ -44,6 +44,7 @@
 
 
 
+<<<<<<< Updated upstream
 ## Hi, I'm Aleksander Borgerød.
 ---
 ### About me 
@@ -54,6 +55,18 @@
     simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" ndicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" <img height=200 width=300 src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" align="left" /> simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment.simple. As you know the "|-|" is used for 
   </div >
 </div >
+=======
+## Hello, I am Aleksander Borgerød.
+
+### About me 
+<p align:center>
+<div style="width:750px;" >
+  <!-- ACTIVITY GRAPH -->
+  indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. <img align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>  is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment.
+  simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" ndicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" <img height=200 width=300 src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" align="left" /> simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment. If |:-| entered that is a right aligned text column. If |-:| entered that is a left aligned text and if |:-:| entered that is a centre aligned.It is simple. As you know the "|-|" is used for indicate the table and ":" is used for indicate the text alignment.simple. As you know the "|-|" is used for 
+</div >
+</p>
+>>>>>>> Stashed changes
 <br clear="left"/>
 <!-- DIVIDER -->
 
@@ -70,6 +83,17 @@
   &nbsp;&nbsp;<img width=480 height=180 align="center" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true"  />&nbsp;&nbsp;&nbsp;&nbsp;
   <img  height=200 width=315 align="center" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" /> 
 </p> 
+<<<<<<< Updated upstream
+=======
+
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
 
 
 
@@ -93,6 +117,7 @@
 
 
 
+<<<<<<< Updated upstream
 
 
 
@@ -101,6 +126,8 @@
 
 
 
+=======
+>>>>>>> Stashed changes
 <!-- Divider -->
 <!-- <br></br> -->
 ---
