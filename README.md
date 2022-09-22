@@ -26,10 +26,11 @@
 <br>
 <br>
 
-## Hello there, I'm Aleksander.
 
 
-### About me 
+
+# About me 
+### Hello there, I'm Aleksander.
 <div align="center">
   <div align="left" style="width:800px;" >
     <!-- ACTIVITY GRAPH -->
@@ -59,10 +60,9 @@
   <img  height=200 width=315 align="center" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" /> 
 </p> 
 
----
+## Top projects
 
 <!-- REPO'S: -->
-### My top projects
 <p align="left">
   <p align="center">
   <a href="https://github.com/Borgerod/BarniBus">
@@ -87,7 +87,7 @@
 <!-- # Miscs -->
 
 <!-- <span style="display:block;font-size:18px;" class="note">About Education </span> -->
-# Education
+## Education
 <!-- <br>  -->
 <span style="display:block;font-size:16px;" class="note">The School </span>
   BI Norwegian Business School, founded in 1943, is the largest business school in Norway and the second largest in all of Europe. The school is an independent, not-for-profit foundation and the main provider of research based knowledge on business and management disciplines in Norway. <a href="https://www.bi.edu/about-bi/"> &emsp; Read more. </a>
@@ -109,7 +109,7 @@
 <br>
 
 
-# Literature
+## Literature
 <!-- <span style="display:block;font-size:18px;" class="note">Literature </span> -->
 <details close>
 <summary style="font-size:16px;"> Financial</summary>
@@ -139,7 +139,7 @@
 
 </br>
 
----
+# 
 <!-- PROFILE COUNTER: -->
 <br>
   <P align = "center">
