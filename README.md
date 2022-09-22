@@ -89,10 +89,14 @@
 <!-- <span style="display:block;font-size:18px;" class="note">About Education </span> -->
 ## Education
 <!-- <br>  -->
-<span style="display:block;font-size:16px;" class="note">The School </span>
+
+<span style="display:block;font-size:14px;" class="note">The School </span>
+
   BI Norwegian Business School, founded in 1943, is the largest business school in Norway and the second largest in all of Europe. The school is an independent, not-for-profit foundation and the main provider of research based knowledge on business and management disciplines in Norway. <a href="https://www.bi.edu/about-bi/"> &emsp; Read more. </a>
 </br> </br>
-<span style="display:block;font-size:16px;" class="note"> The Degree</span>
+
+<span style="display:block;font-size:14px;" class="note"> The Degree</span>
+
   During a three-year programme, the students learn about management principles and practices, market influences, operations, finance, communication, and more. Because of this broad knowledge, they are able to analyse complex business problems from different perspectives, and easily cross different boundaries that may exist within and between organisations.<a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA.."> &emsp; Read more </a> </br></br>
 <span style="display:block" class="note">&emsp; • &emsp; **Operations** -  Optimization of businesses practices.</span></br>
 <span style="display:block" class="note">&emsp; • &emsp; **Finance** - Underatand the financing of businesses , and judge the profitability of investments. </span></br>
@@ -100,7 +104,7 @@
 <span style="display:block" class="note">&emsp; • &emsp; **Marketing** -  Basic concepts of marketing, and understand how to attract and keep customers </span></br>
 
 <details close>
-<summary style="font-size:16px;"> Diploma</summary>
+<summary style="font-size:14px;"> Diploma</summary>
 <img src="assets/images/Diploma-1.svg" width="700px" height="700px">
 <img src="assets/images/Diploma-2.svg" width="700px" height="700px">
 <img src="assets/images/Diploma-3.svg" width="700px" height="700px">
