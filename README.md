@@ -1,5 +1,34 @@
-## Hi, I'm Aleksander Borgerød.
+
+<p align="center">
+    <a><img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20traveler;Full-stack%20software%20developer;%20Data%20extraction%20and%20analysis;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6D9191&vCenter=true&size=22&pause=1000"></a>
+  </p>
+
+<p align="center">
+  <!-- GITHUB -->
+<a href=">https://github.com/Borgerod">
+  <img  align="center" height=30  width=30 src="./assets/images/3.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://discordapp.com/users/3934"  >
+  <img  align="center" height=30  width=30 src="./assets/images/4.png">&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/">
+  <img align="center"  height=25  width=25 src="./assets/images/6.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a  href="https://www.facebook.com/aleksander.borgerod"  >
+  <img align="center"height=30  width=30 src="./assets/images/5.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921">
+  <img  align="center"  height=30  width=30 src="./assets/images/2.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<a href="mailto:borgerod@hotmail.com" >
+  <img  align="center"  height=30  width=30 src="./assets/images/1.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<br>
+<br>
+
+## Hello there, I'm Aleksander.
 ---
+
 ### About me 
 <div align="center">
   <div align="left" style="width:800px;" >
