@@ -27,7 +27,7 @@
 <br>
 
 ## Hello there, I'm Aleksander.
----
+
 
 ### About me 
 <div align="center">
