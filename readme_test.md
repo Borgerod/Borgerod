@@ -1,22 +1,168 @@
 
-<!-- DROPDOWN  -->
-<details open>
-  <summary>
-    <b style="font-size:14px">
-      Literature
-    </b>
-  </summary>
-</details>
-
-<!-- BOOK LIST -->
-Clean Code, by Robert Cecil.
-Understanding Economicsd, by Jay R Corrigan.
-CryptoGraphy, by Keith Martin.
-Thinking, fast & slow, by Daniel Kahneman.
-Algorithms and Data Sthuctures, by Jeffer ySmith.
 
 
-<!-- <tr><td> book1 </td></tr> -->
+<table style="width:100%">                     
+    <th> Diploma</th>     
+    <th> About Education</th>     
+  <tr>
+    <td valign="top">
+      <details close>
+      <img src="assets/images/Diploma-1.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-2.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-3.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-4.svg" width="700px" height="700px">
+      </details>
+    </td>
+    <!--  -->
+    <td valign="top">
+        <a href="https://www.bi.edu/about-bi/"> - BI Business school</a>
+        </br> 
+        <a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA..">- My Degree</a>
+    </td>
+  </tr>
+</table>
+
+
+<table style="width:100%">                     
+    <th> Literature </th>     
+  <tr>
+    <td valign="top"> 
+      <details close>
+
+<span style="display:block" class="note">&emsp; • &emsp; Robert Cecil. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship 1st Edition.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Jay R Corrigan. (2021). *Understanding Economics: Game Theory - The Great Courses.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Keith Martin (2020). *CryptoGraphy.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Daniel Kahneman. (2011). *Thinking, fast and slow.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Jeffery Smith. (2021). *Algorithms and Data Sthuctures.* </span> 
+     </details>
+    </td>
+  </tr>
+</table>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+<table style="width:100%">                     
+    <th> Diploma</th>     
+    <th> About Education</th>     
+  <tr>
+    <td valign="top">
+      <details close>
+      <img src="assets/images/Diploma-1.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-2.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-3.svg" width="700px" height="700px">
+      <img src="assets/images/Diploma-4.svg" width="700px" height="700px">
+      </details>
+    </td>
+    <!--  -->
+    <td valign="top">
+    <th> The School </th>
+    <br> 
+     BI Norwegian Business School, founded in 1943, is the largest business school in Norway and the second largest in all of Europe. The school is an independent, not-for-profit foundation and the main provider of research based knowledge on business and management disciplines in Norway. <a href="https://www.bi.edu/about-bi/"> &emsp; Read more. </a>
+    </br> </br>
+    <th> The Degree </th>
+    <br> During a three-year programme, the students learn about management principles and practices, market influences, operations, finance, communication, and more. Because of this broad knowledge, they are able to analyse complex business problems from different perspectives, and easily cross different boundaries that may exist within and between organisations.<a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA.."> &emsp; Read more </a> </br></br>
+
+<span style="display:block" class="note">&emsp; • &emsp; **Operations** -  Optimization of businesses practices.</span>
+<span style="display:block" class="note">&emsp; • &emsp; **Finance** - Underatand the financing of businesses , and judge the profitability of investments. </span>
+<span style="display:block" class="note">&emsp; • &emsp; **Accounting** -  Systematically understand the financial activity of a business. </span>
+<span style="display:block" class="note">&emsp; • &emsp; **Marketing** -  Basic concepts of marketing, and understand how to attract and keep customers </span>
+</br>
+</td>
+  </tr>
+</table>
+
+
+<table style="width:100%">                     
+    <th> Literature </th>     
+  <tr>
+    <td valign="top"> 
+      <details close>
+
+<span style="display:block" class="note">&emsp; • &emsp; Robert Cecil. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship 1st Edition.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Jay R Corrigan. (2021). *Understanding Economics: Game Theory - The Great Courses.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Keith Martin (2020). *CryptoGraphy.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Daniel Kahneman. (2011). *Thinking, fast and slow.* </span>
+<span style="display:block" class="note">&emsp; • &emsp; Jeffery Smith. (2021). *Algorithms and Data Sthuctures.* </span> 
+     </details>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+<td valign="top">
+    <a href="https://www.bi.edu/about-bi/"> - BI Business school</a>
+    </br> 
+    <a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA..">- My Degree</a>
+</td> -->
+
+
+
+
+
+
+<!-- <td valign="top">
+    <th> The School </th>
+    <br> 
+     BI Norwegian Business School, founded in 1943, is the largest business school in Norway and the second largest in all of Europe. The school is an independent, not-for-profit foundation and the main provider of research based knowledge on business and management disciplines in Norway. <a href="https://www.bi.edu/about-bi/"> &emsp; Read more. </a>
+    </br> </br>
+    <th> The Degree </th>
+    <br> During a three-year programme, the students learn about management principles and practices, market influences, operations, finance, communication, and more. Because of this broad knowledge, they are able to analyse complex business problems from different perspectives, and easily cross different boundaries that may exist within and between organisations.<a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA.."> &emsp; Read more </a> </br></br>
+
+<span style="display:block" class="note">&emsp; • &emsp; **Operations** -  Optimization of businesses practices.</span>
+<span style="display:block" class="note">&emsp; • &emsp; **Finance** - Underatand the financing of businesses , and judge the profitability of investments. </span>
+<span style="display:block" class="note">&emsp; • &emsp; **Accounting** -  Systematically understand the financial activity of a business. </span>
+<span style="display:block" class="note">&emsp; • &emsp; **Marketing** -  Basic concepts of marketing, and understand how to attract and keep customers </span>
+</br>
+</td> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -49,113 +195,6 @@ Algorithms and Data Sthuctures, by Jeffer ySmith.
     </tr>
 </table> -->
 
-<!-- DROP DOWN LIST  -->
-<details close>
-  <summary>
-    <b style="font-size:14px">
-      Literature
-    </b>
-  </summary>
-  <br > • Clean Code, by Robert Cecil. </br> 
-  <br> • Understanding Economicsd, by Jay R Corrigan. </br> 
-  <br> • CryptoGraphy, by Keith Martin. </br> 
-  <br> • Thinking, fast & slow, by Daniel Kahneman. </br>                 
-  <br> • Algorithms and Data Sthuctures, by Jeffery Smith. </br>  
-</details>
-
-
-<table style="width:100%">                     
-    <th> Diploma</th>     
-    <th> About Education</th>     
-    <th> Literature </th>     
-        <tr>                
-            <td> 
-<details close>
-  <summary>
-    <b style="font-size:14px"> see list </b>
-  </summary>
-  <br > • Clean Code, by Robert Cecil. </br> 
-  <br> • Understanding Economicsd, by Jay R Corrigan. </br> 
-  <br> • CryptoGraphy, by Keith Martin. </br> 
-  <br> • Thinking, fast & slow, by Daniel Kahneman. </br>                 
-  <br> • Algorithms and Data Sthuctures, by Jeffery Smith. </br>  
-</details>
-             </td>
-            <td> 
-<details close>
-  <summary>
-    <b style="font-size:14px">
-      see list
-    </b>
-  </summary>
-  <br > • Clean Code, by Robert Cecil. </br> 
-  <br> • Understanding Economicsd, by Jay R Corrigan. </br> 
-  <br> • CryptoGraphy, by Keith Martin. </br> 
-  <br> • Thinking, fast & slow, by Daniel Kahneman. </br>                 
-  <br> • Algorithms and Data Sthuctures, by Jeffery Smith. </br>  
-</details>
-             </td>
-            <td> 
-<details close>
-  <summary>
-    <b style="font-size:14px">
-      see list
-    </b>
-  </summary>
-  <br > • Clean Code, by Robert Cecil. </br> 
-  <br> • Understanding Economicsd, by Jay R Corrigan. </br> 
-  <br> • CryptoGraphy, by Keith Martin. </br> 
-  <br> • Thinking, fast & slow, by Daniel Kahneman. </br>                 
-  <br> • Algorithms and Data Sthuctures, by Jeffery Smith. </br>  
-</details>
-             </td>
-        </tr>                        
-</table>  
-
-
-
-
-<!-- <table style="width:100%">    -->
-<br>
-<b><th>Diploma&emsp;</th><th> About Education&emsp;</th><th>Literature&emsp;</th></b> 
-
-</br>
-<!-- </table>   -->
-
-
-<table style="width:100%">                     
-    <th> Diploma</th>     
-    <th> About Education</th>     
-    <th> Literature </th>     
-  <tr>
-    <td valign="top">
-      <details close>
-      <img src="assets/images/Diploma-1.svg" width="700px" height="700px">
-      <img src="assets/images/Diploma-2.svg" width="700px" height="700px">
-      <img src="assets/images/Diploma-3.svg" width="700px" height="700px">
-      <img src="assets/images/Diploma-4.svg" width="700px" height="700px">
-      </details>
-    </td>
-    <td valign="top">
-      <details close>
-        <a href="https://www.bi.edu/about-bi/">
-        - BI Business school</a>
-        </br> 
-        <a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA..">
-        - My Degree</a>
-      </details>
-    </td>
-    <td valign="top"> 
-      <details close>
-        &emsp; • &emsp; Clean Code, by Robert Cecil. </br> 
-        &emsp; • &emsp; Understanding Economicsd, by Jay R Corrigan. </br> 
-        &emsp; • &emsp; CryptoGraphy, by Keith Martin. </br> 
-        &emsp; • &emsp; Thinking, fast & slow, by Daniel Kahneman. </br>                 
-        &emsp; • &emsp; Algorithms and Data Sthuctures, by Jeffery Smith. </br>  
-      </details>
-    </td>
-  </tr>
-</table>
 
 
 <!-- DROP DOWN TABLE  -->
