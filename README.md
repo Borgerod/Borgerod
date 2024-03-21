@@ -81,8 +81,8 @@
 
 <p align="center">
     
-  <a href="https://github.com/Borgerod/leetcode_submisstions">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submisstions&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Borgerod/leetcode_submissions">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://github.com/Borgerod/portfolio_kurs_kodeloftet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=portfolio_kurs_kodeloftet&theme=github_dark&hide_border=true" />
