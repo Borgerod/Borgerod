@@ -64,22 +64,32 @@
 
 <!-- REPO'S: -->
 <p align="left">
+    
   <p align="center">
-  <a href="https://github.com/Borgerod/leetcode_submisstions">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submisstions&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
+      
+  <a href="https://github.com/Borgerod/Telegram_surveillance">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
   </a>
+    
+      
   <a href="https://github.com/Borgerod/ProSpector">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" />
   </a>
+      
 </p>
+
+
 <p align="center">
-  <a href="https://github.com/Borgerod/Telegram_surveillance">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
+    
+  <a href="https://github.com/Borgerod/leetcode_submisstions">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submisstions&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://github.com/Borgerod/portfolio_kurs_kodeloftet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=portfolio_kurs_kodeloftet&theme=github_dark&hide_border=true" />
   </a>
+    
   </p>
+  
 </p>
 
 <!-- --- -->
