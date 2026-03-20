@@ -1,21 +1,11 @@
-<style>
-  .social-link {
-    transition: transform 0.2s, filter 0.2s;
-    display: inline-block;
-  }
-  .social-link:hover {
-    transform: scale(1.15);
-    filter: brightness(1.3) drop-shadow(0 0 2px #6D9191);
-  }
-</style>
 <p align="center">
     <a><img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20traveler;Full-stack%20software%20developer;%20Data%20extraction%20and%20analysis;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6D9191&vCenter=true&size=22&pause=1000"></a>
   </p>
 
 <p align="center">
   <!-- GITHUB -->
-<a href="https://borgerod.no" style="text-decoration: none;" class="social-link">
-  <img  align="center" height=30  width=30 src="./assets/images/7_ab.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://borgerod.no" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';" onmouseout="this.style.transform='';this.style.filter='';">
+  <img align="center" height=30 width=30 src="./assets/images/7_ab.png" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <!-- <a href=">https://github.com/Borgerod">
   <img  align="center" height=30  width=30 src="./assets/images/3_github.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,21 +13,52 @@
 <!-- <a href="https://discordapp.com/users/3934"  >
   <img  align="center" height=30  width=30 src="./assets/images/2_discord.png">&nbsp;&nbsp;&nbsp;&nbsp;
 </a> -->
-<a href="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/" style="text-decoration: none;" class="social-link">
-  <img align="center"  height=25  width=25 src="./assets/images/6_linkedin.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';" onmouseout="this.style.transform='';this.style.filter='';">
+  <img align="center" height=25 width=25 src="./assets/images/6_linkedin.png" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a  href="https://www.facebook.com/aleksander.borgerod" style="text-decoration: none;" class="social-link">
-  <img align="center"height=30  width=30 src="./assets/images/5_facebook.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/aleksander.borgerod" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';" onmouseout="this.style.transform='';this.style.filter='';">
+  <img align="center" height=30 width=30 src="./assets/images/5_facebook.png" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921" style="text-decoration: none;" class="social-link">
-  <img  align="center"  height=30  width=30 src="./assets/images/4_upwork.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';" onmouseout="this.style.transform='';this.style.filter='';">
+  <img align="center" height=30 width=30 src="./assets/images/4_upwork.png" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="mailto:borgerod@hotmail.com" style="text-decoration: none;" class="social-link">
-  <img  align="center"  height=30  width=30 src="./assets/images/1_mail.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:borgerod@hotmail.com" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;" onmouseover="this.style.transform='scale(1.15)';this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';" onmouseout="this.style.transform='';this.style.filter='';">
+  <img align="center" height=30 width=30 src="./assets/images/1_mail.png" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 <br>
 
+<p align="center">
+    <a><img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20traveler;Full-stack%20software%20developer;%20Data%20extraction%20and%20analysis;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6D9191&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+<p align="center">
+  <a href="https://borgerod.no" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+    onmouseover="this.style.transform='scale(1.15)'; this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img align="center" height=30 width=30 src="./assets/images/7_ab.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+    onmouseover="this.style.transform='scale(1.15)'; this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img align="center" height=25 width=25 src="./assets/images/6_linkedin.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.facebook.com/aleksander.borgerod" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+    onmouseover="this.style.transform='scale(1.15)'; this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img align="center" height=30 width=30 src="./assets/images/5_facebook.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+    onmouseover="this.style.transform='scale(1.15)'; this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img align="center" height=30 width=30 src="./assets/images/4_upwork.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="mailto:borgerod@hotmail.com" style="text-decoration: none; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+    onmouseover="this.style.transform='scale(1.15)'; this.style.filter='brightness(1.3) drop-shadow(0 0 2px #6D9191)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.filter='none';">
+    <img align="center" height=30 width=30 src="./assets/images/1_mail.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
 # About me
 
 ### Hello there, I'm Aleksander.
@@ -73,22 +94,22 @@
 <!-- REPO'S: -->
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <a href="https://github.com/Borgerod/Telegram_surveillance" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+  <a href="https://github.com/Borgerod/Telegram_surveillance" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
     <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Borgerod/ProSpector" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+  <a href="https://github.com/Borgerod/ProSpector" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
     <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Borgerod/leetcode_submissions" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+  <a href="https://github.com/Borgerod/leetcode_submissions" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
     <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Borgerod/borgerod.github.io" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+  <a href="https://github.com/Borgerod/borgerod.github.io" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
     <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=borgerod.github.io&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Borgerod/Oppdragsmarkedet.no" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+  <a href="https://github.com/Borgerod/Oppdragsmarkedet.no" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
     <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Borgerod/Barnibus" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+  <a href="https://github.com/Borgerod/Barnibus" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
     <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" />
   </a>
 </div>
