@@ -109,11 +109,11 @@ During a three-year programme, the students learn about management principles an
 #
 
 <!-- PROFILE COUNTER: -->
-<br>
+<!-- <br>
   <P align = "center">
     <a>
       Profile visits: &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/borgerod/count.svg"/>
     </a>
   </p>
-</br>
+</br> -->
 <!-- </div> -->
