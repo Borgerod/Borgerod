@@ -1,36 +1,47 @@
-
+<style>
+  .social-link {
+    transition: transform 0.2s, filter 0.2s;
+    display: inline-block;
+  }
+  .social-link:hover {
+    transform: scale(1.15);
+    filter: brightness(1.3) drop-shadow(0 0 2px #6D9191);
+  }
+</style>
 <p align="center">
     <a><img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20traveler;Full-stack%20software%20developer;%20Data%20extraction%20and%20analysis;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6D9191&vCenter=true&size=22&pause=1000"></a>
   </p>
 
 <p align="center">
   <!-- GITHUB -->
-<a href=">https://github.com/Borgerod">
-  <img  align="center" height=30  width=30 src="./assets/images/3.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://borgerod.no" style="text-decoration: none;" class="social-link">
+  <img  align="center" height=30  width=30 src="./assets/images/7_ab.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://discordapp.com/users/3934"  >
-  <img  align="center" height=30  width=30 src="./assets/images/4.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href=">https://github.com/Borgerod">
+  <img  align="center" height=30  width=30 src="./assets/images/3_github.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+</a> -->
+<!-- <a href="https://discordapp.com/users/3934"  >
+  <img  align="center" height=30  width=30 src="./assets/images/2_discord.png">&nbsp;&nbsp;&nbsp;&nbsp;
+</a> -->
+<a href="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/" style="text-decoration: none;" class="social-link">
+  <img align="center"  height=25  width=25 src="./assets/images/6_linkedin.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://www.linkedin.com/in/aleksander-borger%C3%B8d-373a1a140/">
-  <img align="center"  height=25  width=25 src="./assets/images/6.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a  href="https://www.facebook.com/aleksander.borgerod" style="text-decoration: none;" class="social-link">
+  <img align="center"height=30  width=30 src="./assets/images/5_facebook.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a  href="https://www.facebook.com/aleksander.borgerod"  >
-  <img align="center"height=30  width=30 src="./assets/images/5.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921" style="text-decoration: none;" class="social-link">
+  <img  align="center"  height=30  width=30 src="./assets/images/4_upwork.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://www.upwork.com/freelancers/~014d3a39c0b1b7b921">
-  <img  align="center"  height=30  width=30 src="./assets/images/2.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-<a href="mailto:borgerod@hotmail.com" >
-  <img  align="center"  height=30  width=30 src="./assets/images/1.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:borgerod@hotmail.com" style="text-decoration: none;" class="social-link">
+  <img  align="center"  height=30  width=30 src="./assets/images/1_mail.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <br>
 <br>
 
+# About me
 
-
-
-# About me 
 ### Hello there, I'm Aleksander.
+
 <div align="center">
   <div align="left" style="width:800px;" >
     <!-- ACTIVITY GRAPH -->
@@ -46,72 +57,62 @@
 <br clear="left"/>
 <!-- DIVIDER -->
 
-
 <!-- PROFILE STATS 1: -->
 <!--  height=200 max-width: min-content -->
 <!-- ### My Activity -->
 
-<p align="center">
-      &nbsp;&nbsp;<img  height=200  width=300  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgerod&theme=github_dark&hide=html,&langs_count=3&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img  width=480  align="center" src="https://github-readme-stats.vercel.app/api?username=Borgerod&theme=github_dark&show_icons=true&line_height=27&count_private=true&hide_border=true"  />
-</p> 
-<p align="center">
-  &nbsp;&nbsp;<img width=480 height=180 align="center" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true"  />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  height=200 width=315 align="center" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" /> 
-</p> 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <img style="height:200px; width:auto; margin:0px; margin-right:3px;" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img style="height:200px; width:auto; margin:0px; margin-left:5px;" src="https://github-readme-stats.vercel.app/api?username=Borgerod&theme=github_dark&show_icons=true&line_height=27&count_private=true&hide_border=true" />
+  <img style="height:200px; width:auto; margin:0px; margin-left:20px;" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true" />
+  <img style="height:200px; width:auto; margin:0px; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgerod&theme=github_dark&hide=html,&langs_count=3&hide_border=true" />
+</div>
 
 ## Top projects
 
 <!-- REPO'S: -->
-<p align="left">
-    
-  <p align="center">
-      
-  <a href="https://github.com/Borgerod/Telegram_surveillance">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
-  </a>
-    
-      
-  <a href="https://github.com/Borgerod/ProSpector">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" />
-  </a>
-      
-</p>
 
-
-<p align="center">
-    
-  <a href="https://github.com/Borgerod/leetcode_submissions">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <a href="https://github.com/Borgerod/Telegram_surveillance" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Borgerod/portfolio_kurs_kodeloftet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=portfolio_kurs_kodeloftet&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Borgerod/ProSpector" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" />
   </a>
-    
-  </p>
-  
-</p>
-
-<!-- --- -->
+  <a href="https://github.com/Borgerod/leetcode_submissions" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Borgerod/borgerod.github.io" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=borgerod.github.io&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Borgerod/Oppdragsmarkedet.no" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Borgerod/Barnibus" style="width: 370px; min-width: 300px; max-width: 100%; display: block;">
+    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" />
+  </a>
+</div>
 
 <!-- # Miscs -->
 
 <!-- <span style="display:block;font-size:18px;" class="note">About Education </span> -->
+
 ## Education
+
 <!-- <br>  -->
 
 <span style="display:block;font-size:14px;" class="note">The School </span>
 
-  BI Norwegian Business School, founded in 1943, is the largest business school in Norway and the second largest in all of Europe. The school is an independent, not-for-profit foundation and the main provider of research based knowledge on business and management disciplines in Norway. <a href="https://www.bi.edu/about-bi/"> &emsp; Read more. </a>
+BI Norwegian Business School, founded in 1943, is the largest business school in Norway and the second largest in all of Europe. The school is an independent, not-for-profit foundation and the main provider of research based knowledge on business and management disciplines in Norway. <a href="https://www.bi.edu/about-bi/"> &emsp; Read more. </a>
 </br> </br>
 
 <span style="display:block;font-size:14px;" class="note"> The Degree</span>
 
-  During a three-year programme, the students learn about management principles and practices, market influences, operations, finance, communication, and more. Because of this broad knowledge, they are able to analyse complex business problems from different perspectives, and easily cross different boundaries that may exist within and between organisations.<a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA.."> &emsp; Read more </a> </br></br>
-<span style="display:block" class="note">&emsp; • &emsp; **Operations** -  Optimization of businesses practices.</span></br>
+During a three-year programme, the students learn about management principles and practices, market influences, operations, finance, communication, and more. Because of this broad knowledge, they are able to analyse complex business problems from different perspectives, and easily cross different boundaries that may exist within and between organisations.<a href="https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/business-administration/?_ga=2.234882433.1428810685.1663844919-999560012.1663061493&_gac=1.124785016.1663844919.Cj0KCQjwj7CZBhDHARIsAPPWv3fnPSi5MZKxDILr882sr-8W3nlR6RDp1UhAD5TqfGbF1ibW1Hm0GGUaArWWEALw_wcB&_gl=1*1wb6rzy*_ga*OTk5NTYwMDEyLjE2NjMwNjE0OTM.*_ga_SY3KTJF2RZ*MTY2Mzg0NDkxOS4yLjAuMTY2Mzg0NDkxOS4wLjAuMA.."> &emsp; Read more </a> </br></br>
+<span style="display:block" class="note">&emsp; • &emsp; **Operations** - Optimization of businesses practices.</span></br>
 <span style="display:block" class="note">&emsp; • &emsp; **Finance** - Underatand the financing of businesses , and judge the profitability of investments. </span></br>
-<span style="display:block" class="note">&emsp; • &emsp; **Accounting** -  Systematically understand the financial activity of a business. </span></br>
-<span style="display:block" class="note">&emsp; • &emsp; **Marketing** -  Basic concepts of marketing, and understand how to attract and keep customers </span></br>
+<span style="display:block" class="note">&emsp; • &emsp; **Accounting** - Systematically understand the financial activity of a business. </span></br>
+<span style="display:block" class="note">&emsp; • &emsp; **Marketing** - Basic concepts of marketing, and understand how to attract and keep customers </span></br>
 
 <details close>
 <summary style="font-size:14px;"> Diploma</summary>
@@ -122,38 +123,38 @@
 </details>
 <br>
 
-
 ## Literature
+
 <!-- <span style="display:block;font-size:18px;" class="note">Literature </span> -->
 <details close>
 <summary style="font-size:16px;"> Financial</summary>
 
-<span style="display:block" class="note">&emsp; • &emsp; Graham, B., Dodd, L. D. (1934 & 2008). *Security Analysis.* (6th ed.). New York: The McGraw-Hill Companies, Inc. </span></br>
-<span style="display:block" class="note">&emsp; • &emsp;  Corrigan, J. R. (2021). *Understanding Economics: Game Theory - The Great Courses.* Virginia: The Great Courses.    </span></br>
-</details>
+<span style="display:block" class="note">&emsp; • &emsp; Graham, B., Dodd, L. D. (1934 & 2008). _Security Analysis._ (6th ed.). New York: The McGraw-Hill Companies, Inc. </span></br>
+<span style="display:block" class="note">&emsp; • &emsp; Corrigan, J. R. (2021). _Understanding Economics: Game Theory - The Great Courses._ Virginia: The Great Courses. </span></br>
 
+</details>
 
 <details close>
 <summary style="font-size:16px;"> Software Development</summary>
 
-<span style="display:block" class="note">&emsp; • &emsp; Robert Cecil Martin, R. C., Wampler, D. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship* London: Pearson  </span></br>
-<span style="display:block" class="note">&emsp; • &emsp; Martin, K (2020). *Cryptography: The Key To Digital Security, How It Works, And Why It Matters*. New York: W. W. Norton & Company. </span></br>
-<span style="display:block" class="note">&emsp; • &emsp; Smith, J. (2021). *Algorithms and Data Sthuctures.* Jeffery Smith </span> </br>
-</details>
+<span style="display:block" class="note">&emsp; • &emsp; Robert Cecil Martin, R. C., Wampler, D. (2008). _Clean Code: A Handbook of Agile Software Craftsmanship_ London: Pearson </span></br>
+<span style="display:block" class="note">&emsp; • &emsp; Martin, K (2020). _Cryptography: The Key To Digital Security, How It Works, And Why It Matters_. New York: W. W. Norton & Company. </span></br>
+<span style="display:block" class="note">&emsp; • &emsp; Smith, J. (2021). _Algorithms and Data Sthuctures._ Jeffery Smith </span> </br>
 
+</details>
 
 <details close>
 <summary style="font-size:16px;"> Psychology</summary>
 
-<span style="display:block" class="note">&emsp; • &emsp;  Kahneman, D. (2011). *Thinking, fast and slow.* New York: Farrar, Straus and Giroux.  </span></br>
-<span style="display:block" class="note">&emsp; • &emsp;  Corrigan, J. R. (2021). *Understanding Economics: Game Theory - The Great Courses.* Virginia: The Great Courses.   </span></br>
+<span style="display:block" class="note">&emsp; • &emsp; Kahneman, D. (2011). _Thinking, fast and slow._ New York: Farrar, Straus and Giroux. </span></br>
+<span style="display:block" class="note">&emsp; • &emsp; Corrigan, J. R. (2021). _Understanding Economics: Game Theory - The Great Courses._ Virginia: The Great Courses. </span></br>
+
 </details>
-
-
 
 </br>
 
-# 
+#
+
 <!-- PROFILE COUNTER: -->
 <br>
   <P align = "center">
