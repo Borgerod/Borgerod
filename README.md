@@ -50,14 +50,15 @@
   <img style="height:200px; width:auto; margin:0px; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgerod&theme=github_dark&hide=html,&langs_count=3&hide_border=true" />
 </div>
 
-## Top projects
-
 <!-- REPO'S: -->
 
 ## Top projects
 
+<p align="center">
+<a href="https://github.com/Borgerod/Telegram_surveillance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" width="300" /></a><a href="https://github.com/Borgerod/ProSpector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" width="300" /></a><a href="https://github.com/Borgerod/leetcode_submissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" width="300" /></a><a href="https://github.com/Borgerod/borgerod.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=borgerod.github.io&theme=github_dark&hide_border=true" width="300" /></a><a href="https://github.com/Borgerod/Oppdragsmarkedet.no"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" width="300" /></a><a href="https://github.com/Borgerod/Barnibus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" width="300" /></a>
+</p>
 ## Top projects
-
+<!-- 
 <table align="center" border="0">
   <tr>
     <td><a href="https://github.com/Borgerod/Telegram_surveillance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" width="300" /></a></td>
@@ -71,65 +72,7 @@
     <td><a href="https://github.com/Borgerod/Oppdragsmarkedet.no"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" width="300" /></a></td>
     <td><a href="https://github.com/Borgerod/Barnibus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" width="300" /></a></td>
   </tr>
-</table>
-<!-- <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Borgerod/Telegram_surveillance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Borgerod/ProSpector">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Borgerod/leetcode_submissions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Borgerod/borgerod.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=borgerod.github.io&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Borgerod/Oppdragsmarkedet.no">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Borgerod/Barnibus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
 </table> -->
-<!-- <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <a href="https://github.com/Borgerod/Telegram_surveillance" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
-    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Borgerod/ProSpector" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
-    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Borgerod/leetcode_submissions" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
-    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Borgerod/borgerod.github.io" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
-    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=borgerod.github.io&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Borgerod/Oppdragsmarkedet.no" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
-    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Borgerod/Barnibus" style="width: 260px; min-width: 180px; max-width: 100%; display: block;">
-    <img align="center" style="width: 100%; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" />
-  </a>
-</div> -->
 
 <!-- # Miscs -->
 
