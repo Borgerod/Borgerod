@@ -50,34 +50,6 @@
   <img style="height:200px; width:auto; margin:0px; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgerod&theme=github_dark&hide=html,&langs_count=3&hide_border=true" />
 </div>
 
-<!-- REPO'S: -->
-
-## Top projects
-
-<p align="center">
-<a href="https://github.com/Borgerod/Telegram_surveillance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" width="full" height="100" /></a><a href="https://github.com/Borgerod/ProSpector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" width="full" height="100" /></a><a href="https://github.com/Borgerod/leetcode_submissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" width="full" height="100" /></a><a href="https://github.com/Borgerod/borgerod.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=borgerod.github.io&theme=github_dark&hide_border=true" width="full" height="100" /></a><a href="https://github.com/Borgerod/Oppdragsmarkedet.no"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" width="full" height="100" /></a><a href="https://github.com/Borgerod/Barnibus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" width="full" height="100" /></a>
-</p>
-## Top projects
-<!-- 
-<table align="center" border="0">
-  <tr>
-    <td><a href="https://github.com/Borgerod/Telegram_surveillance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Telegram_surveillance&theme=github_dark&hide_border=true" width="full" height="100" /></a></td>
-    <td><a href="https://github.com/Borgerod/ProSpector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=ProSpector&theme=github_dark&hide_border=true" width="full" height="100" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Borgerod/leetcode_submissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=leetcode_submissions&theme=github_dark&hide_border=true" width="full" height="100" /></a></td>
-    <td><a href="https://github.com/Borgerod/borgerod.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=borgerod.github.io&theme=github_dark&hide_border=true" width="full" height="100" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Borgerod/Oppdragsmarkedet.no"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Oppdragsmarkedet.no&theme=github_dark&hide_border=true" width="full" height="100" /></a></td>
-    <td><a href="https://github.com/Borgerod/Barnibus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgerod&repo=Barnibus&theme=github_dark&hide_border=true" width="full" height="100" /></a></td>
-  </tr>
-</table> -->
-
-<!-- # Miscs -->
-
-<!-- <span style="display:block;font-size:18px;" class="note">About Education </span> -->
-
 ## Education
 
 <!-- <br>  -->
