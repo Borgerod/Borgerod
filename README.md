@@ -1,8 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borgerod)](https://github.com/Borgerod/github-readme-stats)
-
-
-
 <p align="center">
     <a><img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20traveler;Full-stack%20software%20developer;%20Data%20extraction%20and%20analysis;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6D9191&vCenter=true&size=22&pause=1000"></a>
 </p>
