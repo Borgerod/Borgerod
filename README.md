@@ -43,10 +43,19 @@
 <!--  height=200 max-width: min-content -->
 <!-- ### My Activity -->
 
-<div align="center" style="display: grid; justify-content: center; gap: 12px;">
-  <img style="height:200px; width:auto; margin:0px; margin-right:3px;" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+<p align="center">
+  <img height="200" src="https://raw.githubusercontent.com/borgerod/git-my-profile-stats/main/public/assets/images/github-stats.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="200" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+</p>
+
+<!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr);"> -->
+<!-- <div style="display: flex; justify-content: space-between;"> -->
+
+<!-- <div style="display: grid; grid-auto-flow: column; justify-content: space-between;">
+    <img style="height:200px; width:auto; margin:0px; margin-right:3px;" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
   <img style="height:200px; width:auto; margin:0px; margin-left:20px;" src="https://raw.githubusercontent.com/borgerod/git-my-profile-stats/main/public/assets/images/github-stats.svg" />
-</div>
+</div> -->
 
 <!-- <div align="center" style="display: flex; flex-direction:row; flex-wrap: no-wrap; justify-content: evenly;">
   <img  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
