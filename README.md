@@ -46,7 +46,8 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img style="height:200px; width:auto; margin:0px; margin-right:3px;" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
   <img style="height:200px; width:auto; margin:0px; margin-left:5px;" src="https://github-readme-stats.vercel.app/api?username=Borgerod&theme=github_dark&show_icons=true&line_height=27&count_private=true&hide_border=true" />
-  <img style="height:200px; width:auto; margin:0px; margin-left:20px;" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true" />
+  <img style="height:200px; width:auto; margin:0px; margin-left:20px;" src="https://raw.githubusercontent.com/borgerod/git-my-profile-stats/main/public/assets/images/github-stats.svg" />
+    <!-- <img style="height:200px; width:auto; margin:0px; margin-left:20px;" src="https://streak-stats.demolab.com/?user=Borgerod&theme=github-dark&hide_border=true" /> -->
   <img style="height:200px; width:auto; margin:0px; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgerod&theme=github_dark&hide=html,&langs_count=3&hide_border=true" />
 </div>
 
