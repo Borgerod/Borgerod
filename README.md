@@ -45,7 +45,8 @@
 
 <p align="center">
   <img height="200" src="https://raw.githubusercontent.com/borgerod/git-my-profile-stats/main/public/assets/images/github-stats.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
     <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**** -->
   <img height="200" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
