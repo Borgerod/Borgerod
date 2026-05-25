@@ -27,11 +27,10 @@
 <div align="center">
   <div align="left" style="width:800px;" >
     <!-- ACTIVITY GRAPH -->
-A versatile full-stack developer with background in Fianance and Administration, with combined five years of experience in Python, Svelte, Next.js, React, TypeScript, JavaScript, UI/UX, data collection, and some algorithm development. Combines technical expertise with business understanding and thrives in fast-paced environments as reliable team player. <br>With a great passion for learning,      
+A versatile full-stack developer with background in Fianance and Administration, with combined five years of experience in Python, Svelte, Next.js, React, TypeScript, JavaScript, UI/UX, data collection, and some algorithm development. Combines technical expertise with business understanding and thrives in fast-paced environments as reliable team player. With a great passion for learning, I'd never say no to a challange.       
 <br>
-<img  align="right" width="650" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/> I'd never say no to a challange. 
+<img  align="right" width="650" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/> 
 <!-- <br>  -->
-<br>
 <br>
 Software development for me is a playground for crativity and problem solving, which is an arena I thrive in. I live and breath coding, and most of my time is spent infront of the keyboard creating obsessivly both for work and recreation. I genuinly think development is fun, and if anything, I have to force myself to do other things. In a nutshell I would describe myself as resourcefull, solution driven and not to mention dilligent. 
 <br><br>
