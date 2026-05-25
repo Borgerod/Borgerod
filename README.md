@@ -27,19 +27,18 @@
 <div align="center">
   <div align="left" style="width:800px;" >
     <!-- ACTIVITY GRAPH -->
-A versatile full-stack developer with background in Fianance and Administration, with combined five years of experience in Python, Svelte, Next.js, React, TypeScript, JavaScript, UI/UX, data collection, and some algorithm development. Combines technical expertise with business understanding and thrives in fast-paced environments as reliable team player. With a great passion for learning, <br>I'd never say no to a challange. 
+A versatile full-stack developer with background in Fianance and Administration, with combined five years of experience in Python, Svelte, Next.js, React, TypeScript, JavaScript, UI/UX, data collection, and some algorithm development. Combines technical expertise with business understanding and thrives in fast-paced environments as reliable team player. <br>With a great passion for learning,      
 <br>
+<img  align="right" width="650" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/> I'd never say no to a challange. 
 <!-- <br>  -->
-<img  align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/> 
+<br>
 <br>
 Software development for me is a playground for crativity and problem solving, which is an arena I thrive in. I live and breath coding, and most of my time is spent infront of the keyboard creating obsessivly both for work and recreation. I genuinly think development is fun, and if anything, I have to force myself to do other things. In a nutshell I would describe myself as resourcefull, solution driven and not to mention dilligent. 
 <br><br>
-<img height="400" align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=true&count_private=true&layout=donut-vertical&hide=html,makefile,css,markdown" /> Very rarely do I give up, and it does not matter how hard the problem is, for to me there is no such thing as one big problem, but only many small ones. I will solve it, and if divide and conqeour won't work, then I will simply bash my head into it untill it's fixed. 
-<br>
-Regarding my expereince, <br>
+<img height="400" align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=true&count_private=true&layout=donut-vertical&hide=html,makefile,css,markdown" /> Very rarely do I give up, and it does not matter how hard the problem is, for to me there is no such thing as one big problem, but only many small ones. I will solve it, and if divide and conqeour won't work, then I will simply bash my head into it untill it's fixed. Regarding my expereince, <br>
 <img height="195" align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
 I perhaps have the most experience with data extraction / web scraping, which is ususally what I did when I started development. Most of this experence comes from Python, then Dart, Postgres, Insomia.
-Later I started expanding on my backend capabilities, more specifically, using proper database practices, cloud hosting, making and distributing installers for my software for my clients ease of use, user management and authentication, etc. Which then led to trying out simple frontend development, where I started to look deeper into design practices, SEO, desgin tools such as Adobe and Figma.
+<br><br> Later I started expanding on my backend capabilities, more specifically, using proper database practices, cloud hosting, making and distributing installers for my software for my clients ease of use, user management and authentication, etc. Which then led to trying out simple frontend development, where I started to look deeper into design practices, SEO, desgin tools such as Adobe and Figma.
 Simultaneously I started moving away from these simple desktop UIs, over to mobile development with dart/flutter and then web development & hosting with React/Nextjs, tailwind, typescript, etc.
 <br><br>
 I have a compulsion for expanding my knowledge and recently I have started to learn tools such as; 
