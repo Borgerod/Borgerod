@@ -28,31 +28,53 @@
   <div align="left" style="width:800px;" >
     <!-- ACTIVITY GRAPH -->
     I'm a software developer based in Bergen, Norway. Currently working as a freelancer, taking  jobs from both individuals and businesses. 
-    With a great passion for learning and honing my skills, I never say no to a challange. Apart from my development carreer I have background in finance from BI business school, and have years of experience as an artist which I think goes along well with UI design. <img  align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/> Software development for me is a playground for crativity and problem solving, which is an arena I thrive in. I live and breath coding, and most of my day is spent infront of the keyboard creating obsessvly. Honestly, I think coding is genuinly fun, and I could spend days typing away without even noticing. If anything, I have to force myself to do other things.
-    In a nutshell I would describe myself as resilient, solution driven and not to mention stubborn. If i don't know how to solve something, I will find out, or I will bash my head into the problem until it's fixed. 
-    <img  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" align="left" />     In regards to my expereince, I've found that I'm quite good at data extraction, where I've had tons of practice, as you might can tell from my repo.
-    Most of my experence comes from Python, then Dart, Postgres. But in the near future I plan to expand my knowledge and start leaning another language, such as Java, Rust or Goland. My upcomming goals are; Cloud integration, automatization and dive further down into data science. 
-    Don't hesitate to make contact if you have any questions or ideas for future projects, I'd love to hear them. <br>Take care and have fun creeping through my profile! 
+    With a great passion for learning and honing my skills, I never say no to a challange. Apart from my development carreer I have background in finance from BI business school, and have years of experience as an artist which I think goes along well with UI design.<br>
+ <img  align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/0-profile-details.svg"/> 
+<br>
+Software development for me is a playground for crativity and problem solving, which is an arena I thrive in. I live and breath coding, and most of my day is spent infront of the keyboard creating obsessivly.  Honestly, I think coding is genuinly fun, and I could spend days typing away without even noticing. If anything, I have to force myself to do other things. In a nutshell I would describe myself as resilient, solution driven and not to mention dilligent. If i don't know how to solve 
+    <!-- <img  src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" align="left" /> -->
+<img height="400" align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=true&count_private=true&layout=donut-vertical&hide=html,makefile,css,markdown" />
+something, I will find out, or I will bash my head into the problem until it is solved.
+<br><br>
+In regards to my expereince, I've found that I'm quite good at data extraction, where I've had tons of practice, as you might can tell from my repo. Most of my experence comes from Python, then Dart, Postgres. But in the near future I plan to expand my knowledge and start leaning 
+<!-- <img height="195" align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>  -->
+another language, such as Java, Rust or Goland. 
+<br><br>
+<img height="195" align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+My upcomming goals are; 
+Cloud integration, automatization and dive further down into data science. 
+Don't hesitate to make contact if you have any questions or ideas for future projects, I'd love to hear them. 
+<br><br>
+<!-- <br> -->
+<!--Take care and have fun creeping through my profile!  -->
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, <img height="250" align="right" src="https://github-readme-stats.shion.dev/api?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=false&count_private=true&card_width=500" />but also the leap into electronic typesetting, remaining essentially unchanged.  It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<br><br>
+Take care and have fun creeping through my profile! 
+</div >
+</div >
   </div >
 </div >
+
 <br clear="left"/>
 <br clear="left"/>
-<!-- DIVIDER -->
+<p align="center">
+<!-- <p align="center"> -->
+<!-- Streak   -->
+<img height="200" src="https://streak-stats.demolab.com/?user=borgerod&theme=github_dark&hide_border=true&card_width=800"/> 
+</p>
+
+
 
 <!-- PROFILE STATS 1: -->
 <!--  height=200 max-width: min-content -->
 <!-- ### My Activity -->
 
-<p align="center">
+<!-- <p align="center">
   <img height="200" src="https://raw.githubusercontent.com/borgerod/git-my-profile-stats/main/public/assets/images/github-stats.svg" />
-  <!-- &nbsp;&nbsp; -->
-    <!-- &nbsp;&nbsp; -->
-    <!-- &nbsp;&nbsp; -->
-    <!-- &nbsp;&nbsp; -->
-    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**** -->
+  &nbsp;&nbsp;
   <img height="200" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
-</p>
+</p> -->
+
 
 <!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr);"> -->
 <!-- <div style="display: flex; justify-content: space-between;"> -->
