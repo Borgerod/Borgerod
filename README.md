@@ -36,11 +36,11 @@ Software development for me is a playground for crativity and problem solving, w
 <br><br>
 <img height="400" align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=true&count_private=true&layout=donut-vertical&hide=html,makefile,css,markdown" /> Very rarely do I give up, and it does not matter how hard the problem is, for to me there is no such thing as one big problem, but only many small ones. I will solve it, and if divide and conqeour won't work, then I will simply bash my head into it untill it's fixed. 
 <br>
-Regarding my expereince, I perhaps <br>
+Regarding my expereince, <br>
 <img height="195" align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
-have the most experience with data extraction / web scraping, which is ususally what I did when I started development. Most of this experence comes from Python, then Dart, Postgres, Insomia.
-Later I started expanding on my backend capabilities, more specifically, using more proper database practices, cloud hosting, making and distributing installers for my programs for my clients ease of use, user management and authentication, etc. Which then led to trying out simple frontend development, where I started to look deeper into design practices, SEO, desgin tools such as Adobe and Figma.
-Simultaneously I started moving awway from these simple desktop UIs, over to mobile development with dart/flutter and then web development & hosting with React/Nextjs, tailwind, typescript, etc.
+I perhaps have the most experience with data extraction / web scraping, which is ususally what I did when I started development. Most of this experence comes from Python, then Dart, Postgres, Insomia.
+Later I started expanding on my backend capabilities, more specifically, using proper database practices, cloud hosting, making and distributing installers for my software for my clients ease of use, user management and authentication, etc. Which then led to trying out simple frontend development, where I started to look deeper into design practices, SEO, desgin tools such as Adobe and Figma.
+Simultaneously I started moving away from these simple desktop UIs, over to mobile development with dart/flutter and then web development & hosting with React/Nextjs, tailwind, typescript, etc.
 <br><br>
 I have a compulsion for expanding my knowledge and recently I have started to learn tools such as; 
 Docker for more practical reasons, and Unity, and Cobol for fun. My upcomming goals are; Cloud computing, automatization, game development, live data, security, but also look deeper into CI/CD and practical workflows.
