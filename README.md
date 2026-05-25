@@ -34,27 +34,25 @@ A versatile full-stack developer with background in Fianance and Administration,
 <br>
 Software development for me is a playground for crativity and problem solving, which is an arena I thrive in. I live and breath coding, and most of my time is spent infront of the keyboard creating obsessivly both for work and recreation. I genuinly think development is fun, and if anything, I have to force myself to do other things. In a nutshell I would describe myself as resourcefull, solution driven and not to mention dilligent. 
 <!-- <br><br> -->
-<img height="400" align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=true&count_private=true&layout=donut-vertical&hide=html,makefile,css,markdown" /> Very rarely do I give up, and to me it does not matter how hard the problem is, to me there is no one big problem, only many small ones. So I will figure it out, and if divide and conqeour won't work, then I will simply bash my head into it untill it's fixed. 
-<br><br>
+<img height="400" align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=true&count_private=true&layout=donut-vertical&hide=html,makefile,css,markdown" /> Very rarely do I give up, and to me it does not matter how hard the problem is, to me there is no one big problem, only many small ones. I will solve it, and if divide and conqeour won't work, then I will simply bash my head into it untill it's fixed. 
+<br>
+<img height="195" align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+      <br>
 Regarding my expereince, I perhaps have the most experience with data extraction / web scraping, which is ususally what I did when I started development. Most of this experence comes from Python, then Dart, Postgres, Insomia.
 Later I started expanding on my backend capabilities, more specifically, using more proper database practices, cloud hosting, making and distributing installers for my programs for my clients ease of use, user management and authentication, etc. Which then led to trying out simple frontend development, where I started to look deeper into design practices, SEO, desgin tools such as Adobe and Figma.
 Simultaneously I started moving awway from these simple desktop UIs, over to mobile development with dart/flutter and then web development & hosting with React/Nextjs, tailwind, typescript, etc.
+<br><br>
 I have a compulsion for expanding my knowledge and recently I have started to learn tools such as; 
 Docker for more practical reasons, and Unity, and Cobol for the fun of it.
-<br><br>
-<img height="195" align="right" src="https://raw.githubusercontent.com/Borgerod/Borgerod/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
-My upcomming goals are; 
-Cloud integration, automatization, live data, security, game development,  but also learn more about CI/CD and practical workflows.
-Don't hesitate to make contact if you have any questions or ideas for future projects, I'd love to hear them. 
+ My upcomming goals are; 
+Cloud computing, automatization, game development, live data, security, but also look deeper into CI/CD and practical workflows.
 <br><br>
 <!-- <br> -->
 <!--Take care and have fun creeping through my profile!  -->
 <!-- I work comfortably across the full stack, with my strongest footing on the backend and logic layer. I have hands-on experience with responsive design, cross-browser compatibility, and building structured, testable applications. -->
-As a freelance developer I have also worked closely with clients to define requirements and plan realistic development processes. This has made me well equiped to consult with clients both with technical competance or without, and it has given me valuable experience translating user needs into practical and maintainable technical solutions.
-      
  <img height="250" align="right" src="https://github-readme-stats.shion.dev/api?username=borgerod&theme=github_dark&hide_border=false&border_color=242b2e&include_all_commits=false&count_private=true&card_width=500" />
-
-<br><br>
+As a freelance developer I have also worked closely with clients to define requirements and plan realistic development processes. This has made me well equiped to consult with clients both with technical competance or without, and it has given me valuable experience translating user needs into practical and maintainable technical solutions.
+<br><br><br><br>
 Don't hesitate to make contact if you have any questions regarding employment, my projects, or if you simple have any ideas for future projects, I'd love to hear them. 
 <br>
 I also emplore you explore my website at https://www.borgerod.no, which works as an interactive digital resume, where I showcase showwcase my projects, as well as my full-stack experience with dynamic layouts and component-driven design.
