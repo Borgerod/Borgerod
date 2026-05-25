@@ -42,7 +42,7 @@ Simultaneously I started moving away from these simple desktop UIs, over to mobi
 <br><br>
 I have a compulsion for expanding my knowledge and recently I have started to learn tools such as; 
 Docker for more practical reasons, and Unity, and Cobol for fun. My upcomming goals are; Cloud computing, automatization, game development, live data, security, but also look deeper into CI/CD and practical workflows.
-<br><br>
+<br>
 <!-- <br> -->
 <!--Take care and have fun creeping through my profile!  -->
 <!-- I work comfortably across the full stack, with my strongest footing on the backend and logic layer. I have hands-on experience with responsive design, cross-browser compatibility, and building structured, testable applications. -->
